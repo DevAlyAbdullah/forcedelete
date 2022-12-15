@@ -1,0 +1,20 @@
+C:\Users\BlackBandit\Desktop\ForceDelete\ForceDelete\bin\Debug\ForceDelete.exe.config
+C:\Users\BlackBandit\Desktop\ForceDelete\ForceDelete\bin\Debug\ForceDelete.exe
+C:\Users\BlackBandit\Desktop\ForceDelete\ForceDelete\bin\Debug\ForceDelete.pdb
+C:\Users\BlackBandit\Desktop\ForceDelete\ForceDelete\obj\Debug\ForceDelete.csproj.AssemblyReference.cache
+C:\Users\BlackBandit\Desktop\ForceDelete\ForceDelete\obj\Debug\ForceDelete.Form1.resources
+C:\Users\BlackBandit\Desktop\ForceDelete\ForceDelete\obj\Debug\ForceDelete.Properties.Resources.resources
+C:\Users\BlackBandit\Desktop\ForceDelete\ForceDelete\obj\Debug\ForceDelete.csproj.GenerateResource.cache
+C:\Users\BlackBandit\Desktop\ForceDelete\ForceDelete\obj\Debug\ForceDelete.csproj.CoreCompileInputs.cache
+C:\Users\BlackBandit\Desktop\ForceDelete\ForceDelete\obj\Debug\ForceDelete.exe
+C:\Users\BlackBandit\Desktop\ForceDelete\ForceDelete\obj\Debug\ForceDelete.pdb
+E:\VS Related\ForceDelete\ForceDelete\bin\Debug\ForceDelete.exe.config
+E:\VS Related\ForceDelete\ForceDelete\bin\Debug\ForceDelete.exe
+E:\VS Related\ForceDelete\ForceDelete\bin\Debug\ForceDelete.pdb
+E:\VS Related\ForceDelete\ForceDelete\obj\Debug\ForceDelete.csproj.AssemblyReference.cache
+E:\VS Related\ForceDelete\ForceDelete\obj\Debug\ForceDelete.Form1.resources
+E:\VS Related\ForceDelete\ForceDelete\obj\Debug\ForceDelete.Properties.Resources.resources
+E:\VS Related\ForceDelete\ForceDelete\obj\Debug\ForceDelete.csproj.GenerateResource.cache
+E:\VS Related\ForceDelete\ForceDelete\obj\Debug\ForceDelete.csproj.CoreCompileInputs.cache
+E:\VS Related\ForceDelete\ForceDelete\obj\Debug\ForceDelete.exe
+E:\VS Related\ForceDelete\ForceDelete\obj\Debug\ForceDelete.pdb
